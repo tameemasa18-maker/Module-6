@@ -37,4 +37,6 @@ fish
 shark
 ~~~
 ##RESULT:
+~~~
 thus the program is verified
+~~~
